@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/Library/Developer/CommandLineTools/usr/bin/cc -DCMAKE_CXX_COMPILER=/Library/Developer/CommandLineTools/usr/bin/c++ -G "CodeBlocks - Unix Makefiles" "/Users/tioteo/Desktop/Cooper Union/Junior/Fall 2019/ComOS(C)/program5"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/tioteo/Desktop/Cooper Union/Junior/Fall 2019/ComOS(C)/program5/cmake-build-debug

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tioteo/Desktop/Cooper Union/Junior/Fall 2019/ComOS(C)/program3/main.c
+stdio.h
+-
+string.h
+-
+fcntl.h
+-
+unistd.h
+-
+stdlib.h
+-
+sys/wait.h
+-
+sys/types.h
+-
+sys/resource.h
+-
+sys/time.h
+-
+

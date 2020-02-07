@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="program3" targetName="program3" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="302e2d82-1139-4c8a-b49e-3550259fb69d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1XH6l87GExUNnfSYMFRoXIHzM52" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="program3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="program3" TARGET_NAME="program3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="program3" RUN_TARGET_NAME="program3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="302e2d82-1139-4c8a-b49e-3550259fb69d" name="Default Changelist" comment="" />
+      <created>1580690820330</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580690820330</updated>
+      <workItem from="1580690821548" duration="377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom" timestamp="1580691203732">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.bottom/0.23.1440.793@0.23.1440.793" timestamp="1580691203732" />
+    <state width="1398" height="203" key="GridCell.Tab.0.center" timestamp="1580691203731">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.center/0.23.1440.793@0.23.1440.793" timestamp="1580691203731" />
+    <state width="1398" height="203" key="GridCell.Tab.0.left" timestamp="1580691203730">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.left/0.23.1440.793@0.23.1440.793" timestamp="1580691203730" />
+    <state width="1398" height="203" key="GridCell.Tab.0.right" timestamp="1580691203732">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state width="1398" height="203" key="GridCell.Tab.0.right/0.23.1440.793@0.23.1440.793" timestamp="1580691203732" />
+    <state x="385" y="140" width="670" height="676" key="search.everywhere.popup" timestamp="1580691036340">
+      <screen x="0" y="23" width="1440" height="793" />
+    </state>
+    <state x="385" y="140" width="670" height="676" key="search.everywhere.popup/0.23.1440.793@0.23.1440.793" timestamp="1580691036340" />
+  </component>
+</project>
